@@ -21,10 +21,10 @@ repository               : "WangYuanchen-wyc/WangYuanchen-wyc.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "pro.jpg"
   name             : "Wang Yuanchen"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD student @DUT"
   location         : "Dalian,China"
   employer         : "Dalian University of Technology"
   uri              : # URL
