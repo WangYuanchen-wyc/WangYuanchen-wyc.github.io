@@ -1,11 +1,12 @@
 ---
 permalink: /
-title: "Welcome to Wang Yuanchen's academic homepage"
+title: "Hello，Welcome！"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
 About me (Update in 2024.06.19)
 ======
 I am currently pursuing the Ph.D. degree in computer science and technology with the [Dalian University of Technology](https://www.dlut.edu.cn/).
