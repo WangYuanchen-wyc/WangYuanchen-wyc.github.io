@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-About me (Update in 2024.06.20)
+About me (Update in 2024.06.19)
 ======
 I am currently pursuing the Ph.D. degree in computer science and technology with the [Dalian University of Technology](https://www.dlut.edu.cn/).
 My research interests include computer vision and spiking neural network, hoping to make artificial intelligence and computer vision more biologically interpretable and improve their performance and efficiency by better understanding brain science and neuroscience.
