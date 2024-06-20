@@ -2,7 +2,7 @@
 title: "A Universal Event-based Plug-in Module for Visual Object Tracking in Degraded Conditions"
 collection: publications
 permalink: /publication/2023-12-18-A-Universal-Event-based-Plug-in-Module-for-Visual-Object-Tracking-in-Degraded-Conditions
-excerpt: 'Object Tracking'
+excerpt: 'Keywords: Event-based camera, Visual object tracking, Multimodal fusion, Plug-in module'
 date: 2023-12-18
 venue: 'IJCV'
 paperurl: 'http://WangYuanchen-wyc.github.io/files/IJCV 2024.pdf'
