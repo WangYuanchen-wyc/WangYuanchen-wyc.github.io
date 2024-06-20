@@ -2,7 +2,7 @@
 title: "Frame-Event Alignment and Fusion Network for High Frame Rate Tracking"
 collection: publications
 permalink: /publication/2023-03-25-Frame-Event-Alignment-and-Fusion-Network-for-High-Frame-Rate-Tracking
-excerpt: Keywords: Event-based camera, Visual object tracking'
+excerpt: 'Keywords: Event-based camera, Visual object tracking'
 date: 2023-03-25
 venue: 'CVPR 2023'
 paperurl: 'http://WangYuanchen.github.io/files/CVPR_2023_pdf.pdf'
