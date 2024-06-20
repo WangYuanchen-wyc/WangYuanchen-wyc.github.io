@@ -14,8 +14,8 @@ I was honored to be advised by Professor Xiaopeng Wei and [Xin Yang](https://xin
 
 # News
 ## Paper accapted by International Journal of Computer Vision (IJCV)
-Our paper ["A Universal Event-based Plug-in Module for Visual Object Tracking in Degraded Conditions"](https://link.springer.com/article/10.1007/s11263-023-01959-8) is accapred by International Journal of Computer Vision (IJCV).<font color=red>__(CCF A)__</font>
+Our paper ["A Universal Event-based Plug-in Module for Visual Object Tracking in Degraded Conditions"](https://link.springer.com/article/10.1007/s11263-023-01959-8) is accapred by International Journal of Computer Vision (IJCV).<font color=red><em>(CCF A)</em></font>
 ## Paper accapted by IEEE Transactions on Image Processing
-Our paper ["Distractor-aware Event-based Tracking"](https://arxiv.org/pdf/2310.14194) is accapred by IEEE Transactions on Image Processing.<font color=red>__(CCF A)__</font>
+Our paper ["Distractor-aware Event-based Tracking"](https://arxiv.org/pdf/2310.14194) is accapred by IEEE Transactions on Image Processing.<font color=red><em>(CCF A)</em></font>
 ## Paper accapted by CVPR 2023
-Our paper ["Frame-Event Alignment and Fusion Network for High Frame Rate Tracking"](https://arxiv.org/pdf/2305.15688) is accapred by CVPR 2023.<font color=red>__(CCF A)__</font>
+Our paper ["Frame-Event Alignment and Fusion Network for High Frame Rate Tracking"](https://arxiv.org/pdf/2305.15688) is accapred by CVPR 2023.<font color=red><em>(CCF A)</em></font>
