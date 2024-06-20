@@ -2,7 +2,7 @@
 title: " Distractor-aware Event-based Tracking"
 collection: publications
 permalink: /publication/2023-11-10-Distractor-aware-Event-based-Tracking
-excerpt: 'Object Tracking'
+excerpt: 'Keywords:Event camera, visual object tracking, vision transformer, deep neural network'
 date: 2023-11-10
 venue: 'IEEE Transactions on Image Processing'
 paperurl: 'http://WangYuanchen-wyc.github.io/files/IEEE TIP 2023.pdf'
