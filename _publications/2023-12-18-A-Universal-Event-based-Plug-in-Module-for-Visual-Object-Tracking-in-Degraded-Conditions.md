@@ -1,9 +1,9 @@
 ---
 title: "A Universal Event-based Plug-in Module for Visual Object Tracking in Degraded Conditions"
 collection: publications
-permalink: /publication/2024-A-Universal-Event-based-Plug-in-Module-for-Visual-Object-Tracking-in-Degraded-Conditions
+permalink: /publication/2023-12-18-A-Universal-Event-based-Plug-in-Module-for-Visual-Object-Tracking-in-Degraded-Conditions
 excerpt: 'Object Tracking'
-date: 2024
+date: 2023-12-18
 venue: 'IJCV'
 paperurl: 'http://WangYuanchen-wyc.github.io/files/IJCV 2024.pdf'
 citation: 'Zhang J, Dong B, Fu Y, et al. A Universal Event-Based Plug-In Module for Visual Object Tracking in Degraded Conditions[J]. International Journal of Computer Vision, 2024, 132(5): 1857-1879.'
