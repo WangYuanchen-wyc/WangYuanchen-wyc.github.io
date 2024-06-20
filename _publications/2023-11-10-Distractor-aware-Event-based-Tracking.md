@@ -1,9 +1,9 @@
 ---
 title: " Distractor-aware Event-based Tracking"
 collection: publications
-permalink: /publication/2023-Distractor-aware-Event-based-Tracking
+permalink: /publication/2023-11-10-Distractor-aware-Event-based-Tracking
 excerpt: 'Object Tracking'
-date: 2023
+date: 2023-11-10
 venue: 'IEEE Transactions on Image Processing'
 paperurl: 'http://WangYuanchen-wyc.github.io/files/IEEE TIP 2023.pdf'
 citation: 'Fu Y, Li M, Liu W, et al. Distractor-aware event-based tracking[J]. IEEE Transactions on Image Processing, 2023.'
