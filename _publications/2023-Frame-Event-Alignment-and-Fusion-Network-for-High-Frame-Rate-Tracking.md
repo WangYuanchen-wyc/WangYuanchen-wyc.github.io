@@ -2,10 +2,10 @@
 title: "Frame-Event Alignment and Fusion Network for High Frame Rate Tracking"
 collection: publications
 permalink: /publication/2023-Frame-Event-Alignment-and-Fusion-Network-for-High-Frame-Rate-Tracking
-excerpt: 'Object Tracking.'
+excerpt: 'Object Tracking'
 date: 2023
 venue: 'CVPR 2023'
-paperurl: 'https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_Frame-Event_Alignment_and_Fusion_Network_for_High_Frame_Rate_Tracking_CVPR_2023_paper.html'
+paperurl: 'http://WangYuanchen.github.io/files/CVPR_2023_pdf.pdf'
 citation: 'Zhang J, Wang Y, Liu W, et al. Frame-event alignment and fusion network for high frame rate tracking[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023: 9781-9790.'
 ---
 ##Input-Output
