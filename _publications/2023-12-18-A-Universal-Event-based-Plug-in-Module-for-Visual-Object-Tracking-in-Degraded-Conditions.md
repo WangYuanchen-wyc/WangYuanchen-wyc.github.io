@@ -5,7 +5,7 @@ permalink: /publication/2023-12-18-A-Universal-Event-based-Plug-in-Module-for-Vi
 excerpt: 'Keywords: Event-based camera, Visual object tracking, Multimodal fusion, Plug-in module'
 date: 2023-12-18
 venue: 'IJCV'
-paperurl: 'http://WangYuanchen-wyc.github.io/files/IJCV 2024.pdf'
+paperurl: 'https://link.springer.com/article/10.1007/s11263-023-01959-8'
 citation: 'Zhang J, Dong B, Fu Y, et al. A Universal Event-Based Plug-In Module for Visual Object Tracking in Degraded Conditions[J]. International Journal of Computer Vision, 2024, 132(5): 1857-1879.'
 ---
 ## Input-Output
