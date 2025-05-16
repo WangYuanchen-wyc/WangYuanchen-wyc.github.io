@@ -13,9 +13,11 @@ My research interests include computer vision and spiking neural network, hoping
 I was honored to be advised by Professor Xiaopeng Wei and [Xin Yang](https://xinyangdut.github.io/) at the National and Local Joint Engineering Laboratory of Computer Aided Design.
 
 # News
-## Paper accapted by International Journal of Computer Vision (IJCV)
-Our paper ["A Universal Event-based Plug-in Module for Visual Object Tracking in Degraded Conditions"](https://link.springer.com/article/10.1007/s11263-023-01959-8) is accapred by International Journal of Computer Vision (IJCV).<font color=red><strong><em>(CCF A)</em></strong></font>
-## Paper accapted by IEEE Transactions on Image Processing
-Our paper ["Distractor-aware Event-based Tracking"](https://arxiv.org/pdf/2310.14194) is accapred by IEEE Transactions on Image Processing.<font color=red><strong><em>(CCF A)</em></strong></font>
-## Paper accapted by CVPR 2023
-Our paper ["Frame-Event Alignment and Fusion Network for High Frame Rate Tracking"](https://arxiv.org/pdf/2305.15688) is accapred by CVPR 2023.<font color=red><strong><em>(CCF A)</em></strong></font>
+## Paper accepted by IEEE Transactions on Image Processing
+Our paper ["Spiking Neural Networks With Adaptive Membrane Time Constant for Event-Based Tracking"]([https://link.springer.com/article/10.1007/s11263-023-01959-8](https://ieeexplore.ieee.org/abstract/document/10857949)) is accepted by IEEE Transactions on Image Processing.<font color=red><strong><em>(CCF A)</em></strong></font>
+## Paper accepted by International Journal of Computer Vision (IJCV)
+Our paper ["A Universal Event-based Plug-in Module for Visual Object Tracking in Degraded Conditions"](https://link.springer.com/article/10.1007/s11263-023-01959-8) is accepted by International Journal of Computer Vision (IJCV).<font color=red><strong><em>(CCF A)</em></strong></font>
+## Paper accepted by IEEE Transactions on Image Processing
+Our paper ["Distractor-aware Event-based Tracking"]([https://arxiv.org/pdf/2310.14194](https://ieeexplore.ieee.org/abstract/document/10299598)) is accepted by IEEE Transactions on Image Processing.<font color=red><strong><em>(CCF A)</em></strong></font>
+## Paper accepted by CVPR 2023
+Our paper ["Frame-Event Alignment and Fusion Network for High Frame Rate Tracking"]([https://arxiv.org/pdf/2305.15688](https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_Frame-Event_Alignment_and_Fusion_Network_for_High_Frame_Rate_Tracking_CVPR_2023_paper.html)) is accepted by CVPR 2023.<font color=red><strong><em>(CCF A)</em></strong></font>
